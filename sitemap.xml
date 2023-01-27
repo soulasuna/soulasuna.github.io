@@ -2,10 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://soulasuna.github.io/post/set_mirror_source_of_ubuntu/</loc>
+    <lastmod>2023-01-27T23:09:12+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://soulasuna.github.io/post/</loc>
+    <lastmod>2023-01-27T23:09:12+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://soulasuna.github.io/</loc>
+    <lastmod>2023-01-27T23:09:12+08:00</lastmod>
+  </url><url>
+    <loc>https://soulasuna.github.io/post/build_hugo_by_github_action/</loc>
+    <lastmod>2023-01-27T23:09:12+08:10</lastmod>
+  </url><url>
+    <loc>https://soulasuna.github.io/categories/</loc>
+  </url><url>
+    <loc>https://soulasuna.github.io/tags/</loc>
   </url>
 </urlset>
